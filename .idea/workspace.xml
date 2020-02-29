@@ -73,12 +73,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/site.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/biography.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ddsmoothmenu.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lightbox.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/slimbox2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/templatemo_style.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/cloud-carousel.1.0.5.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/cloud-carousel.1.0.5.min.js" />
@@ -91,6 +89,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slimbox2.js" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/images/portfolio/Стару косу.png" afterPath="$PROJECT_DIR$/images/portfolio/Стару-косу.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Poesii.html" afterPath="$PROJECT_DIR$/Poesii.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biography.html" afterPath="$PROJECT_DIR$/biography.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/templatemo_style.css" afterPath="$PROJECT_DIR$/css/templatemo_style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,11 +111,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Poesii.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Poesii.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Poesii.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
               <caret line="222" column="14" lean-forward="false" selection-start-line="222" selection-start-column="14" selection-end-line="222" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="biography.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/biography.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="templatemo_style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="94" column="19" lean-forward="false" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -128,6 +148,7 @@
       <find>Poesii</find>
       <find>стару</find>
       <find>Image 07</find>
+      <find>Діяльність</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,6 +158,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Poesii.html" />
+        <option value="$PROJECT_DIR$/biography.html" />
+        <option value="$PROJECT_DIR$/css/templatemo_style.css" />
       </list>
     </option>
   </component>
@@ -183,17 +206,6 @@
               <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -233,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583001033715</updated>
-      <workItem from="1583001035027" duration="1528000" />
+      <workItem from="1583001035027" duration="1762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1528000" />
+    <option name="totallyTimeSpent" value="1762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="713" extended-state="6" />
@@ -279,14 +291,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -299,6 +303,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="222" column="14" lean-forward="false" selection-start-line="222" selection-start-column="14" selection-end-line="222" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/biography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="182" column="0" lean-forward="false" selection-start-line="182" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="94" column="19" lean-forward="false" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="19" />
           <folding />
         </state>
       </provider>
